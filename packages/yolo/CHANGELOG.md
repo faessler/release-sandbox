@@ -1,3 +1,11 @@
+# [1.1.0](https://github.com/faessler/release-sandbox/compare/v1.0.0+yolo...v1.1.0+yolo) (2025-05-06)
+
+
+### Features
+
+* **bar:** add bar specific file ([5df8ea2](https://github.com/faessler/release-sandbox/commit/5df8ea204e8a831d5260937fddfd4406b73f030d))
+* **root:** add global file ([6b77a57](https://github.com/faessler/release-sandbox/commit/6b77a57cb787b2b2e0bf8fb0e04ad536238bbe25))
+
 # 1.0.0 (2025-05-06)
 
 
