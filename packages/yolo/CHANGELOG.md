@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/faessler/release-sandbox/compare/v1.1.0+yolo...v1.2.0+yolo) (2025-05-06)
+
+
+### Features
+
+* **root:** link local semantic-release package ([e3237e8](https://github.com/faessler/release-sandbox/commit/e3237e8acf48a180176975253f0d82cd5b81f16a))
+
 # [1.1.0](https://github.com/faessler/release-sandbox/compare/v1.0.0+yolo...v1.1.0+yolo) (2025-05-06)
 
 
